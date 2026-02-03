@@ -1,3 +1,3 @@
 # JournalApp
 
-Hello this is demo readme
+Hello this is demo readme updated
